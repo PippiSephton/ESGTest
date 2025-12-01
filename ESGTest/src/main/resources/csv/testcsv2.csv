@@ -1,0 +1,3 @@
+customerName, addressLine1, addressLine2, town, county, country, postcode,customerRef
+Pippi,123 abc lane,,southport,merseyside,england,SO1 u90,ref0001
+Harry,123 abc lane, ,southport,merseyside,england,s01 u90,ref0002
